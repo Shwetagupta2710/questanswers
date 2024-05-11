@@ -46,6 +46,6 @@ public class SearchRotatedArr {
 
     public static void main(String[] args) {
         int[] arr = {7, 3, 6, 8, 9, 4, 1, 2};
-        System.out.println(search(arr, 8)); // Output: 3
+        System.out.println(search(arr, 8));
     }
 }
