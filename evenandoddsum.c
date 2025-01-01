@@ -22,4 +22,4 @@ for(int i=N1; i<=N2;i++) {
 printf("\n");
 printf("Sum of All Even Numbers: %d \n", Sumeven);
 printf("Sum of All Odd Numbers: %d \n", Sumodd);
-}
+//
