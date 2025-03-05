@@ -11,5 +11,6 @@ class pairsum {
             }
         }
         System.out.println((occurence == 1) ? "found" : "does not found");
+
     }  
 }
